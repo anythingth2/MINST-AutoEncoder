@@ -1,1 +1,1 @@
-# MINST-AutoEncoder
+# MNIST-AutoEncoder
